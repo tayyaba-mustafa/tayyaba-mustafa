@@ -10,7 +10,6 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tayyaba-mustafa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tayyaba-mustafa)
-[![committers.top badge](https://user-badge.committers.top/pakistan/tayyaba-mustafa.svg)](https://user-badge.committers.top/pakistan/tayyaba-mustafa)
 
 ## Welcome to My GitHub Profile! 🌟
 
