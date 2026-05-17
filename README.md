@@ -11,7 +11,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tayyaba-mustafa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tayyaba-mustafa)
 
-## Welcome to My GitHub Profile! 🌟
+## Welcome to My GitHub Profile!
 
 I have been fortunate to receive numerous accolades throughout my academic and professional journey. Here are some of the highlights:
 
@@ -57,7 +57,7 @@ I have been fortunate to receive numerous accolades throughout my academic and p
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
