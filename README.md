@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyaba Mustafa</h1>
-<h3 align="center">Gold Medalist | AI & ML Engineer | Full Stack Developer | Section Leader (Mentor) @ Stanford Code In Place| Instructor @iCodeGuru | CS50x Winner @Harvard | Hackathon Participant @Lablab.ai</h3>
+<h3 align="center">Gold Medalist | AI & ML Engineer | Full Stack Developer | Instructor </h3>
 
 ---
 
