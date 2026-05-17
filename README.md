@@ -15,43 +15,43 @@
 
 I have been fortunate to receive numerous accolades throughout my academic and professional journey. Here are some of the highlights:
 
-- 🥇 **Gold Medalist** – BS Computer Science, University of Agriculture, Faisalabad (2022–2026)
-- 👩‍🏫 **Section Leader (Mentor)** @ Stanford Code In Place 2026 – Leading weekly Python sessions
-- 🏅 **Bronze Brick globally & Gold Brick nationally** – CALICO Spring '26
-- 🏆 **CS50x Puzzle Day Winner** – 2025 & 2026, organized by Harvard University
-- 🌍 **MIT Informatics Tournament 2025** – Secured 198th rank globally
-- 💻 **Meta Hacker Cup 2024** – Competed in Meta's global coding competition
-- 🎄 **Advent of Code 2024** – Worked through algorithmic challenges daily
-- 🚀 **10+ International Hackathons** – Lablab.ai & Devpost
-- 🥉 **Entrepreneurship Competition 2025** (FLARE & BIC, UAF) – Secured 3rd position
+- **Gold Medalist** – BS Computer Science, University of Agriculture, Faisalabad (2022–2026)
+- **Section Leader (Mentor)** @ Stanford Code In Place 2026 – Leading weekly Python sessions
+- **Bronze Brick globally & Gold Brick nationally** – CALICO Spring '26
+- **CS50x Puzzle Day Winner** – 2025 & 2026, organized by Harvard University
+- **MIT Informatics Tournament 2025** – Secured 198th rank globally
+- **Entrepreneurship Competition 2025** (FLARE & BIC, UAF) – Secured 3rd position
+- **Meta Hacker Cup 2024** – Competed in Meta's global coding competition
+- **Advent of Code 2024** – Worked through algorithmic challenges daily
+- **10+ International Hackathons** – Lablab.ai & Devpost
+  
+## Scholarships
 
-## 🎓 Scholarships
+- **Chief Minister Honhaar Scholarship (Phase-II)** – Merit-Based Award
+- **Prime Minister's Youth Laptop Scheme 2023** – Merit-Based Award
+- **James P. Brannan Scholarship** – Valued at $2,500
 
-- 🏛️ **Chief Minister Honhaar Scholarship (Phase-II)** – Merit-Based Award
-- 💻 **Prime Minister's Youth Laptop Scheme 2023** – Merit-Based Award
-- 🌎 **James P. Brannan Scholarship** – Valued at $2,500
+## Volunteering & Training
 
-## 👩‍💼 Volunteering & Training
-
-- 🐍 **Python Trainer @ iCodeGuru** – Delivered comprehensive training from basic to advanced levels
-- 🎓 **Section Leader (Mentor) @ Stanford Code In Place** – Mentoring a cohort of students, leading weekly sessions in Python programming
-
----
-
-- 🔭 I'm currently working on **Solving LeetCode problems**
-- 📫 How to reach me: **tayyabamustafa1078@gmail.com**
-- ⚡ Fun fact: **Other than coding I love to sketch and paint 🎨**
+- **Python Trainer @ iCodeGuru** – Delivered comprehensive training from basic to advanced levels
+- **Section Leader (Mentor) @ Stanford Code In Place** – Mentoring a cohort of students, leading weekly sessions in Python programming
 
 ---
 
-## 🌐 Connect with me
+- I'm currently working on **Solving LeetCode problems**
+- How to reach me: **tayyabamustafa1078@gmail.com**
+- Fun fact: **Other than coding I love to sketch and paint**
+
+---
+
+## Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tayyaba-mustafa-97ba1731b/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" />
 </a>
 <a href="mailto:tayyabamustafa1078@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="20" width="30" />
 </a>
 </p>
 
