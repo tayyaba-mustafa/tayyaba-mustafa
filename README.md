@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tayyaba-mustafa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tayyaba-mustafa)
 
